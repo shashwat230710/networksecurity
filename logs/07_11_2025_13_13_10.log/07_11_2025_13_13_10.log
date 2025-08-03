@@ -1,0 +1,2 @@
+[ 2025-07-11 13:13:11,066 ] 14 root - INFO - initiate the data ingestion
+[ 2025-07-11 13:13:11,359 ] 41 root - ERROR - No data found in the MongoDB collection.
